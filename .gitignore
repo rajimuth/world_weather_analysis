@@ -2,6 +2,7 @@
 config.py
 # adding additional files
 Untitled.ipynb
+test.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
